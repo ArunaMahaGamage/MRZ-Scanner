@@ -5,7 +5,6 @@
       <module fileurl="file://$PROJECT_DIR$/MRZ-Scanner.iml" filepath="$PROJECT_DIR$/MRZ-Scanner.iml" />
       <module fileurl="file://$PROJECT_DIR$/MRZScanner.iml" filepath="$PROJECT_DIR$/MRZScanner.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
 </project>
